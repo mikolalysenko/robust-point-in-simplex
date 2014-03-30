@@ -24,8 +24,8 @@ Exactly tests if a given point is contained in a simplex.
 
 **Returns** An integer indicating where the point lies on the simplex
 
-* `+1` if the point is contained in the simplex
-* `-1` if the point is outside the simplex
+* `>0` if the point is contained in the simplex
+* `<0` if the point is outside the simplex
 * `0` if the point lies on the boundary of the simplex
 
 ## Credits
