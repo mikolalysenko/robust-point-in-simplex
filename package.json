@@ -1,6 +1,6 @@
 {
   "name": "robust-point-in-simplex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exact geometric predicate to classify a point against a simplex",
   "main": "rpis.js",
   "directories": {
